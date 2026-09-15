@@ -32,6 +32,9 @@
     'Software Quality Control Engineer':
       'مهندس مراقبة جودة البرمجيات',
 
+    'Software Quality Engineer':
+      'مهندس جودة برمجيات',
+
     'I test the':
       'أختبر',
 
@@ -47,17 +50,29 @@
     'QA/QC engineer building confidence across UI, APIs, data, automation and performance — with a testing-first mindset and production experience.':
       'مهندس QA/QC أعمل على تعزيز الثقة في جودة الواجهات وواجهات API والبيانات والأتمتة والأداء، بعقلية تضع الاختبار أولًا وخبرة عملية على أنظمة حقيقية.',
 
+    'Software Quality Engineer focused on QA/QC and test automation, building confidence across UI, APIs, data and performance — with a testing-first mindset and production experience.':
+      'مهندس جودة برمجيات متخصص في QA/QC وأتمتة الاختبارات، أعمل على تعزيز الثقة في جودة الواجهات وواجهات API والبيانات والأداء، بعقلية تضع الاختبار أولًا وخبرة عملية على أنظمة إنتاجية.',
+
     'View testing work':
       'استعرض أعمال الاختبار',
 
     'Download CV':
       'تحميل السيرة الذاتية',
 
+    'Download Resume':
+      'تحميل السيرة الذاتية',
+
     '2.5+ yrs':
       '+2.5 سنة',
 
+    'Nearly 3 yrs':
+      'نحو 3 سنوات',
+
     'hands-on QA':
       'خبرة عملية في QA',
+
+    'hands-on experience':
+      'خبرة عملية',
 
     'Cairo':
       'القاهرة',
